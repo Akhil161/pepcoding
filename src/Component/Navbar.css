@@ -1,0 +1,31 @@
+.Navbar-Container{
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+    padding: 5px 15px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    
+}
+
+.logo-conttainer img{
+    height: 50px;
+    width: 50px;
+}
+.menu-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu{
+    display: flex;
+}
+.menu-nav li{
+    margin-left: 20px;
+    text-decoration: none;
+    list-style: none;
+}
+.menu-nav ul{
+    margin-bottom: 0;
+}

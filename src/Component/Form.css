@@ -1,0 +1,46 @@
+.form-container{
+    background-color: white;
+   padding: 35px;
+   width: 70%;
+   margin: auto;
+   box-shadow: 0 0 5px 1px;
+   border-radius: 20px;
+}
+.mt{
+    margin-top: 7%;
+}
+.baf{
+    font-weight: 500;
+    font-size: 37px;
+}
+.site-red-color{
+    color: red;
+}
+.input-form{
+    border-radius: 15px;
+    width: 100%;
+    margin: 10px 0px;
+    padding: 5px 12px;
+}
+.dis{
+    border-radius: 15px;
+    width: 20%;
+    padding: 5px 12px;
+}
+.dis1{
+    border-radius: 15px;
+    width: 80%;
+    padding: 5px 12px;
+}
+.btm-session-0uter{
+ width: 100%;
+ text-align: center;
+}
+.btn-session{
+    width: 100%;
+    background-color: #113f89;
+    color: white;
+    padding: 7px 0px;
+    border-radius: 15px;
+    margin-top: 25px;
+}
