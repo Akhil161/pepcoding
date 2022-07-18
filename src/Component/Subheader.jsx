@@ -1,7 +1,7 @@
 import React from 'react'
 import './Subheader.css'
 
-export default function () {
+export default function Subheader() {
   return (
     <div className='mart'>
         <h1 className='tag-line textGrey'>Become a <span className='textBlue'>Full Stack <br/>Developer</span>

@@ -1,7 +1,7 @@
 import React from 'react'
 import './Navbar.css'
 
-export default function () {
+export default function Navbar () {
   return (
     <div className='Navbar-Container'>
         <div className='logo-conttainer'>

@@ -1,7 +1,7 @@
 import React from 'react'
 import './HowPart.css'
 
-export default function () {
+export default function HowPart () {
     return (
         <div className='container mt-5'>
             <div className='row'>

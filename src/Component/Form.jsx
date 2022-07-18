@@ -1,7 +1,7 @@
 import React from 'react'
 import './Form.css'
 
-export default function () {
+export default function Form() {
   return (
     <div className='form-container mt'>
         <h1 class="baf">Book a <span class="site-red-color">FREE</span> trial class.
