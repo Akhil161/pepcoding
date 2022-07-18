@@ -7,7 +7,7 @@ body , #root{
 
 .back{
   
-    background: url(D:\gjp\React\pepcoding\public\gjp-bg.svg);
+    background: url(../public/gjp-bg.svg);
     
     object-fit: cover;
     background-repeat: no-repeat;
